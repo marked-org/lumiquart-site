@@ -1,6 +1,6 @@
-# Lampion website
+# Lumiquart website
 
-Public website of Lampion: home, support and privacy pages, the links the App Store and Play listings use.
+Public website of Lumiquart: home, support and privacy pages, the links the App Store and Play listings use.
 
 - Published by GitHub Pages, "Deploy from a branch" (`main`, root): no workflow, no Actions minutes.
 - Static files only: `index.html`, `support.html`, `privacy.html`, `style.css`.

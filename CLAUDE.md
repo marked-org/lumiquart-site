@@ -1,6 +1,6 @@
-# Lampion website
+# Lumiquart website
 
-Public, static website (GitHub Pages from `main`, root). The app lives in the private repository `marked-org/lampion`;
+Public, static website (GitHub Pages from `main`, root). The app lives in the private repository `marked-org/lumiquart`;
 its session maintains this site.
 
 - **Public repository**: no secrets, personal data, e-mail addresses, hostnames, private IPs or app code, in files,
