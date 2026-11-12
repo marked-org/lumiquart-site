@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Git hook (turned on by `make hooks` or the Claude SessionStart hook): this repository is public.
+set -euo pipefail
+cd "$(git rev-parse --show-toplevel)"
+python3 scripts/check_safety.py --staged
+python3 scripts/check_workflows.py --public

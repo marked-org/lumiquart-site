@@ -1,0 +1,5 @@
+# Claude Code local settings (approved commands saved verbatim, may hold secrets)
+.claude/settings.local.json
+.DS_Store
+.env
+.env.*
